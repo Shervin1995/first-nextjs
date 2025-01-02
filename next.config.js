@@ -1,0 +1,6 @@
+
+
+module.exports = {
+    useFileSystemPublicRoutes: true,
+}
+
