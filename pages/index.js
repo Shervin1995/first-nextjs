@@ -11,7 +11,7 @@ export default function Home ({data}) {
       <div className="blue darken-4">
 
         <h1>
-          Hello World!
+          Hello World! 2
         </h1>
 
       </div>

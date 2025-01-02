@@ -6,6 +6,7 @@ export default function the(req, res){
     
 
     return res.json({
-        message: 200
+        message: 200,
+        msg: "go"
     })
 }
